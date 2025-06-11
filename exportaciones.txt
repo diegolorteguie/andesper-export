@@ -1,0 +1,5 @@
+Maíz Morado,50,3,Alemania,2025-06-10 00:25:39
+Quinua,10000,4,EE.UU.,2025-06-10 00:55:35
+Quinua,800,4,Alemania,2025-06-12 00:39:38Papa Nativa,400,7,Alemania,2025-06-12 00:55:27
+Maíz Morado,10000,3,Alemania,2025-06-12 01:03:38
+Maíz Morado,800,3,EE.UU.,2025-06-12 01:15:03
